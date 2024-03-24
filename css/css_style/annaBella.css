@@ -4,11 +4,30 @@ body {
 }
 
 #principal {
-    border: red 1px solid;
     width: 900px;
 }
 
 #menu {
     background: #c5c5b2;
-    border: #c5c5b2 50px solid;
+    padding: 15px;
+}
+
+#conteudo {
+    background: #e8e8d9;
+    padding: 10px;
+
+}
+
+a {
+    color: #4b566a;
+    text-decoration: none;
+    font-weight: bold;
+}
+
+#rodape {
+    text-align: center;
+}
+
+h1 {
+    color: #828271;
 }
