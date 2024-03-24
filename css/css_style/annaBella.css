@@ -10,24 +10,36 @@ body {
 #menu {
     background: #c5c5b2;
     padding: 15px;
+    text-align: center;
 }
 
 #conteudo {
     background: #e8e8d9;
     padding: 10px;
-
 }
 
 a {
     color: #4b566a;
     text-decoration: none;
     font-weight: bold;
+    padding: 5px;
 }
 
 #rodape {
     text-align: center;
 }
 
+.imgCampanha {
+    border: 10px solid #c3c3ae;
+}
+
+.textContato {
+    font-weight: bold;
+    font-size: 1em;
+    font: Arial, Helvetica, sans-serif;
+}
+
 h1 {
     color: #828271;
+    font-size: 1.2em;
 }
