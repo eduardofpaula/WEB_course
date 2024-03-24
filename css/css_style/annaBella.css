@@ -1,0 +1,14 @@
+body {
+    background: #d2d2c1 url(../images/fundo.png);
+    font: 16px Arial, Helvetica, sans-serif;
+}
+
+#principal {
+    border: red 1px solid;
+    width: 900px;
+}
+
+#menu {
+    background: #c5c5b2;
+    border: #c5c5b2 50px solid;
+}

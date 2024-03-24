@@ -1,0 +1,5 @@
+Inline Style = Formatação direto no elemento
+
+Internal Style Sheet = Formatação dentro do proprio codigo da pagina
+
+External Style Sheet = Formatação com arquivo externo MELHOR METODO DE FORMATAÇÃO

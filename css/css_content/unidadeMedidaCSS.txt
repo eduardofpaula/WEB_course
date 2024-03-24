@@ -1,0 +1,31 @@
+Existem diversos tipos diferentes de unidades de medida em HTML E CSS, e cada uma delas é utilizada para um propósito específico. Unidades de medida em CSS são utilizadas para definir o tamanho de elementos em uma página web.
+
+Unidades de medida em CSS
+
+PX (Pixels) – Pixels são a unidade de medida mais comum em CSS. Pixels são uma unidade de medida absoluta, o que significa que o tamanho de um elemento em pixels não muda, independentemente do tamanho da tela.
+
+Sintaxe: 10px
+
+% (Porcentagem) – Porcentagem é uma unidade de medida relativa. Isso significa que o tamanho de um elemento em porcentagem muda dependendo do tamanho da tela.
+
+Sintaxe: 50%
+
+EM – EM é uma unidade de medida relativa. O tamanho de um elemento em EM muda dependendo do tamanho da fonte do elemento PAI PAI PAI PAI.
+
+Sintaxe: 2em
+
+REM – REM é uma unidade de medida relativa. O tamanho de um elemento em REM muda dependendo do tamanho da fonte do elemento RAIZ RAIZ RAIZ RAIZ.
+
+Sintaxe: 2rem
+
+VW (Viewport Width) – VW é uma unidade de medida relativa. O tamanho de um elemento em VW muda dependendo da largura da tela.
+
+Sintaxe: 10vw
+
+VH (Viewport Height) e VW (Viewport Width) – VH e VW são unidades de medida relativas. O tamanho de um elemento em VH ou VW muda dependendo da altura ou largura da tela. Relativo às dimensões da janela de visualização do navegador. Por exemplo, width: 50vw; define a largura de um elemento como metade da largura da janela de visualização.
+
+Sintaxe: 10vh ou 10vw
+
+VMIN (Viewport Minimum) e VMAX (Viewport Maximum) – VMIN e VMAX são unidades de medida relativas. O tamanho de um elemento em VMIN ou VMAX muda dependendo da altura ou largura da tela, mas também leva em consideração a orientação da tela. O vmin é o menor valor entre vw e vh, enquanto o vmax é o maior.
+
+Sintaxe: 10vmin ou 10vmax
